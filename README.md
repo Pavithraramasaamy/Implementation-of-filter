@@ -1,4 +1,5 @@
-# Implementation-of-filter
+# EX-05 Implementation of Filters
+## DATE : 19-09-2024
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
